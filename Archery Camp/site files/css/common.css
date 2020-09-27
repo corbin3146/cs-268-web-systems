@@ -1,5 +1,10 @@
+html{
+	min-height:100%;
+	
+}
 body {
-	background: lightgray;
+	background: linear-gradient(darkgray,white) no-repeat;
+	
 }
 
 h1{
