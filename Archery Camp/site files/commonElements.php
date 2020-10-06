@@ -10,7 +10,6 @@ $navBar = "
 	<li><a href=\"activities.php\">Activities details</a></li>
 	<li><a href=\"news.php\">News</a></li>
 	<li><a href=\"ourLeaders.php\">Meet our leaders</a></li>
-	<li><a href=\"parents.php\">For the parents</a></li>
-
+	<li><a href=\"Parents.php\">For the parents</a></li>
 </ul>";
 ?>

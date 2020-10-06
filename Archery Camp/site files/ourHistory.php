@@ -9,10 +9,14 @@
 
 <body>
 	
-	<h1>Our History</h1>
+	<header>
+		<h1>Our History</h1>
+	</header>
 	
 	<?php
 		echo $navBar;
 	?>
 
+	<h2>Origins</h2>
+	<h2>Major updates</h2>
 </body>

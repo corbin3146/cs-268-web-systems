@@ -4,10 +4,21 @@ html{
 }
 body {
 	background: linear-gradient(darkgray,white) no-repeat;
+	/*background: linear-gradient(#D28F33,#D4895E) no-repeat;*/
+	/*background: #D28F33;*/
+	/*background: #FADC7A;*/
+	/*background: linear-gradient(green,#D4895E,#D28F33) no-repeat;*/
+	/*background: linear-gradient(darkgray,white);*/
+}
+
+/* set default text color to everything in the body. can easily be changed in later css */
+body *{ 
+	color: black;
 	
 }
 
 h1{
+	color:black;
 	font-family: arial;
 	
 }
@@ -19,10 +30,15 @@ h1{
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
+	
 	background-color: #333;
+	/*background: linear-gradient(to right, #8B5F2B, #E5840D, #872607);*/
+	
 }
 #navBar li {
+	
 	float: left;
+	 border-right: 1px solid #bbb
 }
 #navBar li a {
 	display: block;
@@ -31,3 +47,23 @@ h1{
 	padding: 4px 16px;
 	text-decoration: none;
 }
+#navBar li:last-child {
+	float: left;
+	 border-right: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

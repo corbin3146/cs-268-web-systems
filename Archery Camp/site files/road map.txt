@@ -1,0 +1,54 @@
+Framework of your website. 
+
+
+Content of each webpage:
+1. home
+	* A hub of sorts with only the most inportant info summarized from the other web pages.
+2. gallery
+	* A collection of pictures of camp, the children, and the activities
+3. signup
+	* A form for collecting relevant information when RSVP'ing. If possible, I would love to accept payments
+4. contacts (facebook, ac emails, matt name, google cellphone number?)
+	* contact info for camp 
+5. our history 
+	* One of the original camp leaders asked if he could write about the camp's history, and I put it on the site
+6. thank you 
+	* give thanks to contributors (start with regular donors, then expand to exeryone to who made camp possible)
+7. activities 
+	* details about the different activites that go on at camp
+8. news/updates and changes
+	* A notice board for when things change (board member elections, cancelations, etc.)
+9. meet our leaders 
+	exerpt and picture of each leader (start with board members)
+10. for the parents 
+	* a how to page, What to bring, address safety concerns
+
+Usage of Styling:
+The majority of the pages are just text, and will require minimal styling
+The more interesting pages will be: gallery, news, and our leaders
+
+Gallery: I plan to add far more images, so I will have to use some sort of css to keep it orderly. 
+If I add enough, I want to look into making it so the user can click through many images on one topic.
+
+News: I would like to look into pulling recent posts from facebook if possible, besides that, I want each 'post'
+to be a div with a max length, cuttin off the content, but giving a see more option
+
+Our Leaders: I want to collect images and quotes from people where possible. I will then turn those into 'cards' 
+for each leader if possible
+
+How you would be applying a flexboxes or grids. 
+I will likely use a grid on the out leaders page
+I also plan on useing flex boxes on gallery, and news
+
+Inclusion of responsive design. 
+I plan on using responsive design to alter my nav bar to stack vertically for narrow perspectives.
+I will also use responsive design to limit the number of leaders in our leaders per row.
+
+additional info:
+I managed to get my site hosted through dream hoast, and it was working for a few days. 
+This afternoon, UWEC blocked my page due to security threats. I submittes a ticket, but have not heard back yet.
+Untill this is resolved my github will likely be the most up to date source for my code 
+https://github.com/corbin3146/cs-268-web-systems
+My site is still accessable when I open it using cellular data on my phone, so atleast that works
+https://archerycamp.org
+
