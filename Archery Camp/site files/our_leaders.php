@@ -3,7 +3,8 @@
     <head>
     	<?php
     	$pageName = "Our Leaders";
-        include "commonElements.php";
+    	$cssFile= "leaders";
+        include "common_elements.php";
     	?>
     </head>
     
@@ -142,12 +143,12 @@
 			</div>
 			<div class = "card-content">
     			<p>
-    				 Hello everyone , My name is Dave LaFleur, Jason LaFleur's brother. I am a father of 3 grown children. I have been with the archery camp for 
-    				 4 or 5 years(2020). For 4 plus years I have been the range master for BB guns. Over the years I have changed up the targets. I do my best to 
+    				 Hello everyone, my name is Dave LaFleur. I am a father of 3 grown children. I have been with archery camp for 
+    				 4-5 years(2020). For 4+ years I have been the range master for BB guns. Each year I change up the targets, doing my best to 
     				 make things fun and interesting for the kids as well as some parents. Mostly we have daisy red rider BB guns for th children. For the parents, 
-    				 I sometimes bring my personal break action pellet rifles. I am an avid sportsman. I love hunting both with a firearm as well as a bow. I do a 
+    				 I sometimes bring my personal break action pellet rifles. I am an avid sportsman. I love hunting with both firearm and bow. I do a 
     				 fair amount of fishing and share my boutny with family and friends. Along with volunteering my time with the archery camp I also am a volunteer 
-    				 guide for the Horicon Marsh Vets hunt .<br>
+    				 guide for the Horicon Marsh Vets hunt.<br>
     				 ---<br>
     				 Treat other as you wish to be treated
     			</p>

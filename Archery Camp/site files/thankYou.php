@@ -3,7 +3,8 @@
     <head>
     	<?php
     	$pageName = "Thank You All";
-        include "commonElements.php";
+    	$cssFile = "thank_you";
+        include "common_elements.php";
     	?>
     </head>
     

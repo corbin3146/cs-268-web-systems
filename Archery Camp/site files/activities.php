@@ -3,7 +3,7 @@
     <head>
     	<?php
     	$pageName = "Activities";
-        include "commonElements.php";
+        include "common_elements.php";
     	?>
     </head>
     

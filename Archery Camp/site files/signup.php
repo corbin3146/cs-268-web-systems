@@ -3,7 +3,8 @@
     <head>
     	<?php
     	$pageName = "Signup";
-        include "commonElements.php";
+    	$cssFile = "signup";
+        include "common_elements.php";
     	?>
     </head>
     

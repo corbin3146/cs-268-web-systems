@@ -3,7 +3,8 @@
     <head>
     	<?php
     	$pageName = "Parents";
-        include "commonElements.php";
+    	$cssFile = "parents";
+        include "common_elements.php";
     	?>
     	
     	<style>

@@ -3,7 +3,8 @@
     <head>
     	<?php
     	$pageName = "Gallery";
-        include "commonElements.php";
+    	$cssFile = "gallery";
+        include "common_elements.php";
     	?>
     </head>
     

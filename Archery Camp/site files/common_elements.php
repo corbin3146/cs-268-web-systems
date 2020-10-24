@@ -14,15 +14,15 @@ $navBar = "
 	<li><a href=\"index.php\">Home</a></li>
 	<li><a href=\"signup.php\">Signup</a></li>
     <li><a href=\"activities.php\">Activities</a></li>
-    <li><a href=\"Parents.php\">For the Parents</a></li>
-    <li><a href=\"ourLeaders.php\">Meet Our Leaders</a></li>
+    <li><a href=\"parents.php\">Info For The Parents</a></li>
+    <li><a href=\"our_leaders.php\">Meet Our Leaders</a></li>
 	
     <li><a href=\"thankYou.php\">Thank You All</a></li>
-	<li><a href=\"ourBeliefs.php\">Our Beliefs</a></li>
+	<li><a href=\"our_beliefs.php\">Our Beliefs</a></li>
 	<li><a href=\"gallery.php\">Gallery</a></li>
 	
 	<li><a href=\"news.php\">News</a></li>
-	<li><a href=\"staff/Staff.php\">Staff Loggin</a></li>
+	<li><a href=\"staff/staff.php\">Staff Login</a></li>
 </ul>
 <div style=\"width:100%;color:red;background:orange;\">Site is under construction. Information listed here is not guaranteed to be accurate!</div>
 ";

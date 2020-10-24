@@ -4,7 +4,7 @@
 	<head>
 		<?php
     	   $pageName = "Staff";
-    		include "../commonElements.php";
+    		include "../common_elements.php";
     	?>
     	<link rel="stylesheet" href="../css/common.css">
 	</head>

@@ -4,12 +4,14 @@
     
     	<?php
     	   $pageName = "Home";
-    		include "commonElements.php";
+    	   $cssFile = "index";
+    		include "common_elements.php";
     	?>
     	<!-- 
     	<?php
     	   $pageName = "Home";
-    		include "commonElements.php";
+    	   $cssFile = "index";
+    		include "common_elements.php";
     	?>
     	 -->
     	
@@ -24,6 +26,11 @@
     	<?php
     		echo $navBar;
     	?>
+    	<!-- 
+    	<?php
+    		echo $navBar;
+    	?>
+    	 -->
 
     	<h2>What is MWRAC?</h2>
     	<p>Archery Camp is a Christian non profit weekend camp for children in grades 3 through 8. We are affiliated with Lutheran Pioneers and the WELS Synod. 
@@ -47,5 +54,10 @@
     <?php
         echo $footer;
     ?>
+    <!-- 
+    <?php
+        echo $footer;
+    ?>
+     -->
     </body>
 </html>
