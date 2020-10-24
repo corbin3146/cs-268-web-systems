@@ -1,0 +1,24 @@
+#thank-you-list{
+	margin-left:1em;
+	column-count:3;
+}
+#thank-you-list li{
+	list-style-type:none;
+}
+#thank-you-list >  li{
+	font-weight:bold;
+}
+#thank-you-list > ul > li{
+	margin-left:0.5em;
+	margin-bottom:1em;
+}
+@media(max-width:800px){
+	#thank-you-list{
+ 		column-count:2;
+	}
+}
+@media(max-width:600px){
+	#thank-you-list{
+		column-count:1;
+	}
+}

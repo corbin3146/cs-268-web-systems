@@ -1,0 +1,14 @@
+form{
+     background-color: whitesmoke;
+     border: 3px rounded black;
+     width: 80%;
+     margin-left: 10%;
+     margin-bottom: 1em;
+ }
+ form input{
+     margin-bottom: 1em;
+ }
+ 
+ input :invalid{
+     border:1px solid red;
+ }

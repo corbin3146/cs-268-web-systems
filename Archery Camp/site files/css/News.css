@@ -1,0 +1,16 @@
+#wishlist li{
+	margin-left:3em;
+}
+.fb-page *{
+	margin:0px;
+	padding:0px;
+}
+.fb-page{
+	float:right;
+	width:40%;
+}
+@media(max-width:600px){
+	.fb-page{
+		width:100%;
+	}
+}

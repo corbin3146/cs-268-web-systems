@@ -1,0 +1,46 @@
+Framework of your website.
+Well, given that frameworks are banned for this assignment, the closest thing I have is using php to paste my 
+nav bar and any other common html code wherever I want it to go.
+
+
+Content of each webpage:1. 
+home
+	* A hub of sorts with only the most important info summarized from the other web pages.
+2. gallery
+	* A collection of pictures of camp, the children, and the activities
+3. signup
+	* A form for collecting relevant information when RSVP'ing. If possible, I would love to accept payments
+4. contacts (Facebook, ac emails, matt name, google cellphone number?)
+	* contact info for camp 
+5. our history 
+* One of the original camp leaders asked if he could write about the camp's history, and I put it on the site
+6. thank you 
+	* give thanks to contributors (start with regular donors, then expand to everyone to who made camp possible)
+7. activities 
+	* details about the different activates that go on at camp
+8. news/updates and changes
+	* A notice board for when things change (board member elections, cancelations, etc.)
+9. meet our leaders 
+	*excerpt and picture of each leader (start with board members)
+10. for the parents 
+* a how to page, What to bring, address safety concerns
+11. staff page
+*  a seudo secure page which requires 'anouncements' as a pass phrase to access
+Usage of Styling:
+The majority of the pages are just text, and will require minimal styling
+The more interesting pages will be: gallery, news, and our leaders
+
+Gallery: I plan to add far more images, so I will have to use some sort of CSS to keep it orderly. 
+If I add enough, I want to look into making it so the user can click through many images on one topic.
+
+News: I would like to look into pulling recent posts from Facebook if possible, besides that, I want 
+each 'post'to be a div with a max length, cutting off the content, but giving a see more optionOur 
+
+Leaders: I want to collect images and quotes from people where possible. I will then turn those into 
+'cards' for each leader if possibleHow you would be applying a flexboxes or grids:I will likely use a 
+grid on the out leaders pageI also plan on using flex boxes on gallery, and news
+
+Inclusion of responsive design:
+I plan on using responsive design to alter my nav bar to stack vertically for narrow perspectives.
+I will also use responsive design to limit the number of leaders in our leaders per row.
+
