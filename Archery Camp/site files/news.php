@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
     <head>
     	<?php
     	$pageName = "News";
@@ -32,7 +32,7 @@
         			<li>3D foam targets (Deer, Bear, Turkey, other)</li>
         			<li>New arrows (carbon, youth) 3-4 Dozen</li>
         		</ul>
-      	 	<h2 style="float:clear;">2020 - camp cancelation</h2>
+      	 	<h2 style="float:none;">2020 - camp cancelation</h2>
         	<p>To Whom it may Concern,<br>
                		I regret to inform you the 2020 Midwest Regional Archery Camp has been cancelled. We have reviewed current 
                		health and Safely recommendations for the Covid-19 on a city, county, state, and national level. The 

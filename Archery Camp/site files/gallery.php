@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
     <head>
     	<?php
     	$pageName = "Gallery";
@@ -39,7 +39,7 @@
     	
     	<br>
     	<h2>Super Secret</h2>
-    	<img src="intentionaly bad link.JPG" alt="Nice Try, its a stecet ;)">
+    	<img src="intentionaly_bad_link.JPG" alt="Nice Try, its a stecet ;)">
     	<?php
         echo $footer;
         ?>

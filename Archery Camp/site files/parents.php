@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
     <head>
     	<?php
     	$pageName = "Parents";
@@ -64,12 +64,13 @@
     		<ul>
     			<li>Sleeping Bag/blankets</li>
     			<li>Pillows</li>
-    			<li>Toiletries</li>
+    			<li>Toiletries
     				<ul>
     					<li>Tooth Brush/Toothpaste</li>
     					<li>shower items (soap, shampoo, towel)</li>
     					<li>Deodorant <b>Please!</b></li>
     				</ul>
+				</li>
     			<li>Warm Clothes</li>
     			<li>Extra Shoes and Socks</li>
     			<li>Flashlight</li>
@@ -93,51 +94,60 @@
     	<h3>Food and Lodging</h3>
     	<h4>Menu:</h4>
     		<ul id="menu">
-    			<li>Friday</li>
+    			<li>Friday
     				<ul>
-    					<li>Fiday Night:</li>
+    					<li>Fiday Night:
     						<ul>
     							<li>Hotdogs, chips</li>
     							<li>Hot Chocolate, Hot Apple Cider</li>
     						</ul>
+						</li>
     				</ul>
-    			<li>Saturday</li>
+				</li>
+    			<li>Saturday
     				<ul>
-    					<li>Breakfast:</li>
+    					<li>Breakfast:
     						<ul>
     							<li>pancakes, sausage links</li> 
     							<li>apple sauce, fruit</li>
     							<li>OJ, apple juice</li> 
     							<li>cereal, milk</li>
     						</ul>
-    					<li>Lunch:</li>
-    					<ul>
-    							<li>shredded turkey</li>
-    							<li>mash potatoes and gravy</li> 
-    							<li>corn</li> 
-    							<li>milk, tang</li>
-    					</ul>
-    					<li>Snack:</li>
-    					<ul>
-    							<li>To Be Determined (by weather)</li>
-    					</ul>
-    					<li>Dinner:</li>
-    					<ul>
-    							<li>smoked pulled pork</li>
-    							<li>potato salad</li>
-    							<li>cake</li>
-    							<li>milk, tang</li>
-    					</ul>
+						</li>
+    					<li>Lunch:
+        					<ul>
+        							<li>shredded turkey</li>
+        							<li>mash potatoes and gravy</li> 
+        							<li>corn</li> 
+        							<li>milk, tang</li>
+        					</ul>
+    					</li>
+    					<li>Snack:
+        					<ul>
+        							<li>To Be Determined (by weather)</li>
+        					</ul>
+    					</li>
+    					<li>Dinner:
+        					<ul>
+        							<li>smoked pulled pork</li>
+        							<li>potato salad</li>
+        							<li>cake</li>
+        							<li>milk, tang</li>
+        					</ul>
+    					</li>
     				</ul>
-    			<li>Sunday</li>
+				</li>
+    			<li>Sunday
     				<ul>
-    					<li>Brunch:</li>
-    					<ul>
-    						<li>pancakes, sausage links</li>
-    						<li>leftovers</li>
-    						<li>cereal, milk</li>
-    					</ul>
+    					<li>Brunch:
+        					<ul>
+        						<li>pancakes, sausage links</li>
+        						<li>leftovers</li>
+        						<li>cereal, milk</li>
+        					</ul>
+    					</li>
     				</ul>
+    			</li>
     		</ul>
     		<h4>Lodging:</h4>
     		<p>Lodging is available in the form of bunkbeds in cabins, or on the second floor of the challet (main building). Heaters and fans will be available in the cabins. 

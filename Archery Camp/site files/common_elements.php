@@ -3,7 +3,7 @@ $commonHead =
     "<meta name=\"viewport\" content=\"initial-scale=1.0; width=device-width\">
     <meta charset=\"utf-8\">
     <link rel=\"stylesheet\"  href=\"css/common.css\">
-    <link rel=\"stylesheet\"  href=\"css/" . $pageName . ".css\">
+    <link rel=\"stylesheet\"  href=\"css/" . $cssFile . ".css\">
     <title>Archery Camp - " . $pageName . "</title>
     ";
 
@@ -15,10 +15,10 @@ $navBar = "
 	<li><a href=\"signup.php\">Signup</a></li>
     <li><a href=\"activities.php\">Activities</a></li>
     <li><a href=\"parents.php\">Info For The Parents</a></li>
-    <li><a href=\"our_leaders.php\">Meet Our Leaders</a></li>
+    <li><a href=\"leaders.php\">Meet Our Leaders</a></li>
 	
     <li><a href=\"thank_you.php\">Thank You All</a></li>
-	<li><a href=\"our_beliefs.php\">Our Beliefs</a></li>
+	<li><a href=\"beliefs.php\">Our Beliefs</a></li>
 	<li><a href=\"gallery.php\">Gallery</a></li>
 	
 	<li><a href=\"news.php\">News</a></li>

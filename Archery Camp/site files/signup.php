@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
     <head>
     	<?php
     	$pageName = "Signup";
@@ -23,12 +23,19 @@
     	<!-- discuss with matt acessability(no printer, or pc) -->
     	<p><b>Please complete the following items and bring the completed forms to camp.</b></p>
     	<ol style="margin-left:2em">
-    		<li><a href = "forms/MWRAC Registration Form.docx" download>registration</a></li>
-    		<li><a href = "forms/MWRAC Health Form.docx" download>Health history and emergency home contact</a></li>
+    		<li><a href = "forms/MWRAC%20Registration%20Form.docx" download>registration</a></li>
+    		<li><a href = "forms/MWRAC%20Health%20Form.docx" download>Health history and emergency home contact</a></li>
     		<li>RSVP!</li>
     	</ol>
     	
-    	<form>
+    	<script>
+			function notSubmitted(){
+				alert("Form not submitted, information collection is not yet setup. Sorry for the inconvenience.");
+			}
+    	</script>
+    	
+    	
+    	<form method = "POST">
     		<h2>RSVP HERE!</h2>
     		<div id="basic-info-form">
         		<label for = "fname">First Name:</label>
@@ -49,7 +56,7 @@
         		<input type="tel" id="phone-home" name="phone-home"><br>
         		    		
         		<label for = "phone-cell">Cell Phone:</label>
-        		<input type="tel" id="phone-home" name="phone-home"><br>
+        		<input type="tel" id="phone-cell" name="phone-home"><br>
         		
         		Is this partisipant a Minor?<br>
         		<label for = "minor-yes">Yes:</label>
@@ -60,7 +67,7 @@
     		</div>
     		
 			<input type="reset">
-        	<input type="submit">
+        	<input type="submit" onClick="notSubmitted()">
     		
     	</form>
     	<?php
