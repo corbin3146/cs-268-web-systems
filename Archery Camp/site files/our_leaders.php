@@ -16,7 +16,7 @@
     	<?php
     		echo $navBar;
     	?>
-    	
+    	<!-- Card Template                                                                             -->
     	<div class = "card">
 			<div class="card-top">
 			<img src="images/headshots/matthew_grieling.jpg" alt="Filler image of gold leaf">
@@ -39,8 +39,9 @@
     				your favorite motto, saying, proverb etc. 
     			</p>
 			</div>
-    	
     	</div>
+    	
+    	<!-- Corbin LaFleur                                                                            -->
     	<div class = "gold card">
 			<div class="card-top">
 			<img src="images/headshots/corbin_lafleur.JPG" alt="Corbin LaFleur Headshot">
@@ -56,6 +57,7 @@
 					<li>The Teck Guy</li>
 				</ul>
 			</div>
+			
 			<div class = "card-content">
     			<p>
     				Hey, I'm Corbin. I am currently studying Software Engineering at UWEC, so I'm the tech guy at camp. I was elected to the board last camp (2019), 
@@ -65,10 +67,9 @@
     				Written 10/8/2020
     			</p>
 			</div>
-		
-		
-		
 		</div>
+		
+		<!-- Matthew Grieling                                                                         -->
 		<div class = "gold card">
 			<div class="card-top">
 			<img src="images/headshots/matthew_grieling.jpg" alt="Matthew Grieling Headshot">
@@ -91,10 +92,9 @@
     				I have some anouncements
     			</p>
 			</div>
-		
-		
-		
 		</div>
+		
+		<!-- Jason LaFleur                                                                            -->
 		<div class = "gold card">
 			<div class="card-top">
 			<img src="images/headshots/jason_lafleur.JPG" alt="Jason LaFleur Headshot">
@@ -121,11 +121,9 @@
     				Don't fret the storm, learn to dance in the rain.
     			</p>
 			</div>
-		
-		
-		
 		</div>
 		
+		<!-- Dave LaFleur                                                                             -->
     	<div class = "gold card">
 			<div class="card-top">
 			<img src="images/headshots/dave_lafleur.jpeg" alt="David LaFleur Headshot">
@@ -153,8 +151,8 @@
     				 Treat other as you wish to be treated
     			</p>
 			</div>
-    	
     	</div>
+    	
     	<?php
         echo $footer;
         ?>

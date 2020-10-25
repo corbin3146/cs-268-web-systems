@@ -17,7 +17,7 @@ $navBar = "
     <li><a href=\"parents.php\">Info For The Parents</a></li>
     <li><a href=\"our_leaders.php\">Meet Our Leaders</a></li>
 	
-    <li><a href=\"thankYou.php\">Thank You All</a></li>
+    <li><a href=\"thank_you.php\">Thank You All</a></li>
 	<li><a href=\"our_beliefs.php\">Our Beliefs</a></li>
 	<li><a href=\"gallery.php\">Gallery</a></li>
 	
