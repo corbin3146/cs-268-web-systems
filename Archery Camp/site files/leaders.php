@@ -61,10 +61,10 @@
 			<div class = "card-content">
     			<p>
     				Hey, I'm Corbin. I am currently studying Software Engineering at UWEC, so I'm the tech guy at camp. I was elected to the board last camp (2019), 
-    				and am having a great time building this site. I've been coming to camp since I was old enough to go to camp. At camp, I typically run the 
-    				BB-gun range with my uncle, David LaFleur.<br>
+    				and am having a great time building this site. I've been coming to camp since I was old enough to go to camp. At camp, I typically run the BB-gun 
+    				range with my uncle, David LaFleur. Dave and I always have a great time barinstorming new ideas of how we can make bb-guns better, and more fun.<br>
     				---<br>
-    				Written 10/8/2020
+    				"Once you can accept the universe as matter expanding into nothing that is something, wearing stripes with plaid comes easy." -Albert Einstein
     			</p>
 			</div>
 		</div>
@@ -80,16 +80,20 @@
 			<div class="card-stats">
 				<ul>
 					<li>Camp President</li>
-					<li>Chief</li>
-					<li>Face of Camp</li>
-					<li>Halarious</li>
+					<li>Outdoorsman</li>
+					<li>Down To Earth</li>
+					<li>Sense Of Humor</li>
 				</ul>
 			</div>
 			<div class = "card-content">
     			<p>
-    				MMMM Pie<br>
+    				Hello All, my name is Matthew, and I am the President of Midwest Regional Archery Camp. I have been coming to camp for over 25 years! 
+    				I started in grade school as a camper, then high school as a Jr. Staff helper and now President. I look forward to coming back every 
+    				year and serving to make sure you have the best camp experience ever. You will love the staff members that help make this camp fun for 
+    				everyone. I look forward to meeting all of you, and I hope and pray you have an amazing adventure learning about Christ, making new 
+    				friends, and having many laughs here at camp.<br>
     				---<br>
-    				I have some anouncements
+    				"Trust in the Lord with all your heart and lean not on your own understanding" (Proverbs 3:5)
     			</p>
 			</div>
 		</div>

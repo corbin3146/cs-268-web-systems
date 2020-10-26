@@ -1,3 +1,10 @@
-img{
-	width: 20%;
+.image-section img{
+	width: 30vw;
+	margin-right:0.5em;
+}
+@media(max-width:1000px){
+	.image-section img{
+		width:90vw;
+		margin-right:0px;
+	}
 }

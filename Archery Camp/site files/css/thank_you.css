@@ -8,6 +8,9 @@
 #thank-you-list >  li{
 	font-weight:bold;
 }
+#thank-you-list > li *{
+	font-weight:normal;
+}
 #thank-you-list > ul > li{
 	margin-left:0.5em;
 	margin-bottom:1em;

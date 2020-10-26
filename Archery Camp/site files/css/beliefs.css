@@ -1,0 +1,20 @@
+.creed-portion{
+	width:50%;
+	margin-bottom:2em;
+	position: relative;
+}
+.creed-portion img{
+	width:50vw;
+}
+.creed-portion > p{
+	color:white;
+	font-size:large;
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#amen{
+  color:white;
+  font-size:x-large;
+}

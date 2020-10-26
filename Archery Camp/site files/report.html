@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<!-- I assume that his file is not part of our website, and there is no deed for this to be in a seperate css file -->
+		<style>
+			del{
+				color:red;
+			}
+			ol > li{
+				margin-bottom: 1em;
+			}
+			body{
+				background: linear-gradient(white,lightblue,lightblue,lightgreen);
+			}
+		</style>
+		
+	</head>
+    <body>
+    	<header>
+    		<h1>Report</h1>
+    	</header>
+    	<h2>An itemized breakdown of how you believe you have met the expectations.</h2>
+    	<p>Note: to access the staff page, please use username:gomesr-uwec password:temp-user</p>
+    	<ol>
+    		<li>You will create a website for a client of your choosing. Your client could be a family member, a business, a student group, a friend, an online community, and so on. The only restriction is that the client cannot be just you.
+				<UL>
+					<li>Site created for Midwest Regional Archery Camp</li>
+				</UL>
+			</li>
+			<li>Your site must include some sort of header.
+				<UL>
+					<li>Each pahe has a 'h1' inside header tags</li>
+				</UL>
+			</li>
+			<li>Your site must contain at least ten separate pages, each having a meaningful purpose.
+				<UL>
+					<li>pages: index.php, activities.php, beliefs.php, gallery.php, leaders.php, news.php, parents.php, signup.php, thank_you.php, staff.php</li>
+				</UL>
+			</li>
+			<li>Your site must include some sort of navigation links.
+				<UL>
+					<li>navbar is echoed on each page using php</li>
+				</UL>
+			</li>
+			<li>Your site must support distinct layouts for large and small screens. For instance, multicolumn layouts on large screens should be reduced to single column layouts on small screens. You are encouraged to implement separate layouts using CSS media queries.
+				<UL>
+					<li>common.css includes media queries to adjust navbar for small screens. Leader cards and gallery images also adjust for tiny screens.</li>
+				</UL>
+			</li>
+			<li>Your site must maintain a coherent style across its pages. Global style rules must be placed in a shared stylesheet. Individual pages’ style rules must be placed in a separate stylesheets.
+				<UL>
+					<li>common.css is linked to each page via php</li>
+				</UL>
+			</li>
+			<li>Your site must include images, and their alt attributes must adequately describe the image content to users of screen readers, user with images disabled, and webcrawlers.
+				<UL>
+					<li>Plenty of images in galery.php. More images were not used due to concerns over parents not liking their children on a website.</li>
+				</UL>
+			</li>
+			<li>Each page must declare its favicon.
+				<UL>
+					<li>echoed to each page with php</li>
+				</UL>
+			</li>
+			<li>Your site’s non-HTML resources must be organized. Images must be placed in a directory named images. CSS files must be placed in a directory named css. <del>JavaScript must be placed in a directory named js</del>.
+				<UL>
+					<li>all images are in /images folder, headshots are in images/headshots. All css is stored in /css</li>
+				</UL>
+			</li>
+			<li>Your site must not be built using any libraries or frameworks. Do not use Bootstrap, jQuery, React, Angular, Vue, or any other third-party tools. You may, however, reimplement the ideas you see in these third-party tools.
+				<UL>
+					<li>None of the above were used.</li>
+				</UL>
+			</li>
+			<li>Each page and stylesheet of your site must validate without any warnings or errors using the W3C’s HTML validator (Links to an external site.) and CSS validator (Links to an external site.).
+				<UL>
+					<li>Done, though the validator does not like 'shape-outside: circle(50%);'</li>
+				</UL>
+			</li>
+			<li>Your site must be stored in a Git repository that you have shared with your instructor. On GitHub, GitLab, and Bitbucket, share with the user gomesr-uwec.<del>(Not required for this project but highly recommended)</del>
+				<UL>
+					<li>Files stored at <a href="https://github.com/corbin3146/cs-268-web-systems" target="_blank">github</a></li>
+				</UL>
+			</li>
+			<li>The names of your files should be entirely lowercase and contain only alphanumeric characters.
+				<UL>
+					<li>Done, see list above for file names</li>
+				</UL>
+			</li>
+			<li>Your content should be neatly aligned. The axes should be clearly visible.
+				<UL>
+					<li>All padding, margins removed, then added back to ensure uniformity. See common.css for details</li>
+				</UL>
+			</li>
+			<li>Your site must use at least two different font faces. Headings are often rendered in a sans-serif font, and copy in a serif font.
+				<UL>
+					<li>h1's are in arial font</li>
+				</UL>
+			</li>
+			<li><del>Your site must include at least one form (or informal collection of input elements). The form might submit data to a server or invoke some client-side JavaScript function that alters the page. The action is not specified.</del>
+				<UL>
+					<li>signup.php contains a form to RSVP</li>
+				</UL>
+			</li>
+			<li>Your site must include links to external sites. Clicking on external links must open a new tab or window rather than replace your page.
+				<UL>
+					<li>Links in 'footer' lead to associated groups (added via php)</li>
+				</UL>
+			</li>
+			<li>Your source code must be readable, using conventional and consistent formatting and meaningful names for classes and IDs.
+				<UL>
+					<li>Done, see github for complete code, as php is not visible to the client</li>
+				</UL>
+			</li>
+			<li><del>Your site must include at least one animation, powered either by CSS or JavaScript.</del>
+				<UL>
+					<li>Not required</li>
+				</UL>
+			</li>
+			<li><del>Your site must be served out of port 8443.</del>
+				<UL>
+					<li>Done</li>
+				</UL>
+			</li>
+			<li><del>Your site must be accessed only through HTTPS. You are encouraged to use Let’s Encrypt (Links to an external site.) to obtain a free certificate.</del>
+				<UL>
+					<li>Done using one-click install via dream hoast</li>
+				</UL>
+			</li>
+			<li>For image copyright issues try using, this site 
+				<ul>
+					<li>All images taken for use on camp website by volunteer</li>
+				</ul>
+			</li>
+    	</ol>
+    	<h2>A critique from your client.</h2>
+    	<p></p>
+    </body>
+</html>
+

@@ -12,11 +12,9 @@
     	<header>
     		<h1>Signup</h1>
     	</header>
-    	
     	<?php
     		echo $navBar;
     	?>	
-    	
     	<h2>Thank you for your interest in Archery Camp. </h2>
     	<p>Due to planning concerns and space limitations, please RSVP below <b>and have the following forms prepared before your arrival at camp.</b> 
     	If you do not RSVP, we can not guarantee we will have food and space for your child</p>
@@ -60,9 +58,9 @@
         		
         		Is this partisipant a Minor?<br>
         		<label for = "minor-yes">Yes:</label>
-        		<input type="radio" id="minor-yes" name="is-minor" value = "yes" onclick= "isMinor()">
+        		<input type="radio" id="minor-yes" name="is-minor" value = "yes">
         		<label for = "minor-no">No:</label>
-        		<input type="radio" id="minor-no" name="is-minor" value = "no" onclick= "isAdult()"><br>
+        		<input type="radio" id="minor-no" name="is-minor" value = "no"><br>
         		
     		</div>
     		
